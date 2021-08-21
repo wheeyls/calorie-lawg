@@ -1,0 +1,14 @@
+{
+  "name": "calorie-lawg",
+  "version": "1.0.0",
+  "description": "Lawg Calorys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.10.0"
+  }
+}
